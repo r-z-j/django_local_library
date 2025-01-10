@@ -1,3 +1,5 @@
+#Pyhton gitignore template
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +171,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
